@@ -4,9 +4,14 @@ A simple 2D endless runner video game made with Unity. The goal is to jump those
 
 ## Getting Started
 
-Clone this project, open it in unity and build it to start playing!
+* Clone this project.
+* Unzip Audio.zip in Assets/Audio folder to get all sound effects and then delete Audio.zip (this is given that Github could not upload .mp3 files properly, may change this later hopefully).
+* Open it in Unity Editor (see Tools below for tested version).
+* Build it to start playing.
 
-### Tools
+You could also download uploaded Windows packages to install and play the game.
+
+## Tools
 
 These are the tools used for creating and building this project. Notice that all of them come together when installing a new Unity version from Unity Hub in Windows.
 
@@ -15,6 +20,11 @@ Unity Editor (2019.3.06f).
 Unity Windows Build Support (IL2CPP).
 Microsoft Visual Studio 2019 Build Tools for C#.
 ```
+
+## Gameplay Keys
+
+* Space or Mouse Left Button (also A in Xbox 360/One Controller works properly) to Jump.
+* P to open Pause Menu.
 
 ## Versioning
 
